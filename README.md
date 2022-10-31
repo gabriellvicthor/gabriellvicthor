@@ -1,4 +1,4 @@
-## Oláaa! Meu nome é Gabriel Linhares, seja muito bem-vindo ao meu perfil 🤩
+## Olá! Meu nome é Gabriel Linhares, seja muito bem-vindo ao meu perfil 🤩
 
 
 - 🔭 Hoje trabalho como Analista de Sistemas
