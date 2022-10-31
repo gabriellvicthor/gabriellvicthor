@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Gabriel Linhares 👋
 
 
-- 🔭 Hoje trabalho como Analista de Sistemas;
-- 🌱 Atualmente estou aprendendo NodeJS, Typescrip e React;
-- 😄 Pronouns: Ele/Dele.
+- 🔭 Hoje trabalho como Analista de Sistemas
+- 🌱 Atualmente estou aprendendo NodeJS, Typescrip e React
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
